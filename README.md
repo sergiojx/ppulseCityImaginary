@@ -23,3 +23,18 @@ Dataset Includes:
 ✔ Scores for safety, class and uniqueness for 4,136 geotagged images for the cities of New York, Boston, Linz and Salzburg.
 ✔ Preferences collected from 208,738 votes by 7,872 unique participants.
 ✔ Clicks collected between August 2011 and November 2011.
+
+
+Streetscore was also
+trained using a dataset with a relatively dense set of preferences (each image was
+involved in roughly 30 pairwise comparisons). But collecting such a dense set of
+preferences with crowdsourcing is challenging for a study that involves hundreds
+of thousands of images from several cities, and multiple attributes
+
+
+# perception of urban environment
+# Computer vision methods
+
+# Google street view API
+https://developers.google.com/maps/documentation/streetview/?hl=es-419
+https://developers.google.com/maps/documentation/streetview/intro?hl=es-419
